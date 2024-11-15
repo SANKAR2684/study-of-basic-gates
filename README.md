@@ -91,4 +91,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
-
+Basic logic gates are studied and truth table are verified
